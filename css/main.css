@@ -1,0 +1,65 @@
+/* Agrega aquí tus estilos*/
+header {
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Handlee', cursive;
+  font-size: 40px;
+  color: #231001;
+  text-shadow: 3px 3px 3px #abe58e;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background: #e5d49e;
+    text-align: center;
+    margin: 100px auto;
+    width: 80%;
+    padding: 20 40px;
+    font: 14px;
+}
+
+h3, h4, h5 {
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Handlee', cursive;
+  text-align: center;
+  color: #123001;
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+a {
+  color: #512102;
+}
+
+ul {
+    background: #770414;
+    padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul li {
+    background: #f7dda5;
+    margin: 18px;
+    margin: 3%;
+    font-size: 18px;
+    text-align: left;
+}
+.page-wrapper {
+    background: #91c120;
+    border-radius: 8px;
+    border: 10px solid #332702;
+    margin: -40px 0 0;
+}
